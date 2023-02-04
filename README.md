@@ -31,6 +31,11 @@ I am a Python Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adeel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-shah-6138a4231/")
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;  
+  
 </div>
 - 👋 Hi, I’m Adeel Shah, I am a student at Mehran University of Engineering and Technology
 - 👀 I’m interested in Machine Learning
