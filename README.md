@@ -10,6 +10,13 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 ---
 
 ### :man_technologist: About Me :
@@ -21,7 +28,7 @@ I am a Python Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles or books related to my domain.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-shah-6138a4231/")
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adeel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-shah-6138a4231/")
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
