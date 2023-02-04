@@ -10,6 +10,21 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+---
+
+### :man_technologist: About Me :
+I am a Python Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+
+- :telescope: I’m working on python programming and its data science libraries.
+
+- :seedling: Exploring Data Science.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles or books related to my domain.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-shah-6138a4231/")
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
 - 👋 Hi, I’m Adeel Shah, I am a student at Mehran University of Engineering and Technology
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python and its libraries
