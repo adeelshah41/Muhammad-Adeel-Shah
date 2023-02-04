@@ -26,7 +26,7 @@ I am a Python Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: Exploring Data Science.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles or books related to my domain.
+- :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles or books.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adeel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-shah-6138a4231/")
 <div>
