@@ -3,8 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Data Analysis**
-- 🌱 Also learning web development with **Django**
+- 🌱 I’m currently learning **Data Analysis** , **Django Development**
 
 - 📫 How to reach me **sadeel823@gmail.com**
 
