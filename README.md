@@ -2,9 +2,9 @@
 <h3 align="center">2nd Year Computer Engineering Student</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adeelshah26" alt="adeelshah26" /></a> </p>
 
 - 🌱 I’m currently learning **Data Analysis**
+- 🌱 Also learning web development with **Django**
 
 - 📫 How to reach me **sadeel823@gmail.com**
 
