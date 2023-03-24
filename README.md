@@ -3,7 +3,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h3 align="center">2nd Year Computer Engineering Student</h3>
-<div id="badges" align="center">
+
+
+- 🌱 I’m currently learning **Data Analysis** , **Django Development**
+
+- 📫 How to reach me **sadeel823@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/muhammad-adeel-shah/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,13 +22,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-- 🌱 I’m currently learning **Data Analysis** , **Django Development**
-
-- 📫 How to reach me **sadeel823@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
