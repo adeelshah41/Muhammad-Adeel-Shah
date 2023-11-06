@@ -18,10 +18,10 @@
 </div>
 <h3 align="center">2nd Year Computer Engineering Student</h3>
 
-- :zap: In my free time, I solve problems on hackerrank and read tech articles.
+  - :zap: I try to work on new projects and learn about new tools.
 - :telescope: Experienced in Python programming <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-- 🌱 I’m currently learning **Data Analysis** , **Django Development**
+- 🌱 I’m currently learning **pandas**
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/muhammad-adeel-shah/">
   <img src="https://img.shields.io/badge/Adeel-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
